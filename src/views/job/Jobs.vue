@@ -19,28 +19,23 @@
 export default {
   data() {
     return {
-      jobs: [
-        {
-          id: 1,
-          title: 'Farm Supervisor',
-          salary: 30000,
-          location: 'london'
-        },
-        {
-          id: 2,
-          title: 'Tractor Operator',
-          salary: 20000,
-          location: 'london'
-        },
-        {
-          id: 3,
-          title: 'General Helper',
-          salary: 10000,
-          location: 'london'
-        }
-      ]
+
+      jobs: []
+
     }
-  }
+  },
+  mounted() {
+      fetch('http://localhost:3000/jobs')
+      .then((res)=>{
+        // console.log(res);
+        return res.json();
+      })
+      .then((data)=>{
+        // console.log(data);
+        this.jobs = data
+      })
+
+    }
 
 }
 </script>

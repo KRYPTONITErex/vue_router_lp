@@ -1,0 +1,44 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Full Stack Developer",
+        "location": "Remote",
+        "salary": "$100,000 - $120,000",
+        "type": "Full-time",
+        "description": "Responsible for developing both client and server software."
+      },
+      {
+        "id": 2,
+        "title": "Backend Developer",
+        "location": "San Francisco, CA",
+        "salary": "$90,000 - $110,000",
+        "type": "Full-time",
+        "description": "Focus on server-side application logic and integration."
+      },
+      {
+        "id": 3,
+        "title": "Frontend Engineer",
+        "location": "New York, NY",
+        "salary": "$85,000 - $105,000",
+        "type": "Full-time",
+        "description": "Build and maintain user-facing features of the web application."
+      },
+      {
+        "id": 4,
+        "title": "DevOps Engineer",
+        "location": "Austin, TX",
+        "salary": "$95,000 - $115,000",
+        "type": "Full-time",
+        "description": "Streamline software delivery and system reliability processes."
+      },
+      {
+        "id": 5,
+        "title": "Mobile App Developer",
+        "location": "Seattle, WA",
+        "salary": "$90,000 - $120,000",
+        "type": "Contract",
+        "description": "Develop and maintain mobile applications for Android and iOS."
+      }
+    ]
+  }
