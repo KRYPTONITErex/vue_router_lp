@@ -1,0 +1,61 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Automotive Mechanic",
+        "location": "Detroit, MI",
+        "salary": "$40,000 - $60,000",
+        "type": "Full-time",
+        "description": "Inspect, maintain, and repair vehicles including cars and trucks.",
+        "requirements": [
+            "Experience with automotive repairs", 
+            "Certification in auto mechanics preferred"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "High School Math Teacher",
+        "location": "Dallas, TX",
+        "salary": "$50,000 - $70,000",
+        "type": "Full-time",
+        "description": "Teach math to high school students and prepare them for standardized tests.",
+        "requirements": ["Bachelor's degree in Education or Mathematics", "Teaching certification required"]
+      },
+      {
+        "id": 3,
+        "title": "Graphic Designer",
+        "location": "Remote",
+        "salary": "$45,000 - $65,000",
+        "type": "Full-time",
+        "description": "Create visual content for websites, social media, and marketing materials.",
+        "requirements": ["Proficiency in Adobe Creative Suite", "Strong portfolio of past work"]
+      },
+      {
+        "id": 4,
+        "title": "Industrial Mechanic",
+        "location": "Houston, TX",
+        "salary": "$45,000 - $70,000",
+        "type": "Full-time",
+        "description": "Maintain and repair industrial machinery in manufacturing plants.",
+        "requirements": ["Experience with industrial equipment", "Knowledge of safety protocols"]
+      },
+      {
+        "id": 5,
+        "title": "Elementary School Teacher",
+        "location": "San Diego, CA",
+        "salary": "$45,000 - $65,000",
+        "type": "Full-time",
+        "description": "Teach foundational subjects to elementary school students.",
+        "requirements": ["Bachelor's degree in Education", "State teaching license"]
+      },
+      {
+        "id": 6,
+        "title": "UX Designer",
+        "location": "San Francisco, CA",
+        "salary": "$70,000 - $100,000",
+        "type": "Full-time",
+        "description": "Design user-friendly interfaces for web and mobile applications.",
+        "requirements": ["Experience in UX/UI design", "Knowledge of user research techniques"]
+      }
+    ]
+  }
